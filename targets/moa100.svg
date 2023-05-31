@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
-   sodipodi:docname="target_wb.svg"
+   sodipodi:docname="moa100.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -26,12 +26,12 @@
      showgrid="true"
      inkscape:lockguides="false"
      inkscape:zoom="3.0804644"
-     inkscape:cx="496.19142"
-     inkscape:cy="455.93775"
-     inkscape:window-width="2639"
-     inkscape:window-height="1735"
-     inkscape:window-x="760"
-     inkscape:window-y="280"
+     inkscape:cx="627.82741"
+     inkscape:cy="331.60584"
+     inkscape:window-width="2396"
+     inkscape:window-height="1503"
+     inkscape:window-x="66"
+     inkscape:window-y="346"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1">
     <inkscape:grid
@@ -48,16 +48,9 @@
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline">
-    <circle
-       style="display:inline;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#150000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
-       id="path1304-7"
-       cx="74.452293"
-       cy="105.35269"
-       r="3.0466614"
-       inkscape:label="path1304-7" />
     <path
        id="path1304-7-7"
-       style="display:inline;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#270000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;fill:#c30000;fill-opacity:1;fill-rule:evenodd;stroke:#270000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
        d="M 74.391925,90.445658 A 15,15 0 0 0 59.391807,105.44575 15,15 0 0 0 74.391925,120.44588 15,15 0 0 0 89.392038,105.44575 15,15 0 0 0 74.391925,90.445658 Z m 0.09922,4.945952 a 10,10 0 0 1 10.000422,10.0004 10,10 0 0 1 -10.000423,9.99991 10,10 0 0 1 -9.999906,-9.99991 10,10 0 0 1 9.999907,-10.0004 z" />
     <path
        id="rect9067"
@@ -202,6 +195,20 @@
          id="tspan10037"
          x="117.16806"
          y="115.46579"> R</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="147.05803"
+       y="110.94548"
+       id="text9585-2-3-78-7-4-5-2-5-5-7-0"><tspan
+         sodipodi:role="line"
+         id="tspan10071"
+         x="147.05803"
+         y="110.94548">2.5</tspan><tspan
+         sodipodi:role="line"
+         id="tspan10073"
+         x="147.05803"
+         y="115.3552"> </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -419,16 +426,9 @@
          id="tspan10163"
          x="-2.3918347"
          y="115.294"> L</tspan></text>
-    <circle
-       style="display:inline;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#150000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
-       id="path1304-7-0"
-       cx="224.4175"
-       cy="105.41359"
-       r="3.0466614"
-       inkscape:label="path1304-7" />
     <path
        id="path1304-7-7-1"
-       style="display:inline;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#270000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;fill:#c30000;fill-opacity:1;fill-rule:evenodd;stroke:#270000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
        d="m 224.35714,90.506558 a 15,15 0 0 0 -15.00012,15.000092 15,15 0 0 0 15.00012,15.00013 15,15 0 0 0 15.00011,-15.00013 15,15 0 0 0 -15.00011,-15.000092 z m 0.0992,4.945952 a 10,10 0 0 1 10.00042,10.0004 10,10 0 0 1 -10.00043,9.99991 10,10 0 0 1 -9.9999,-9.99991 10,10 0 0 1 9.99991,-10.0004 z" />
     <path
        id="rect9067-6"
